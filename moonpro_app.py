@@ -54,8 +54,7 @@ def auth_wall():
     st.markdown("## 🔒 MoonWalkers Only")
     st.write(
         """
-        This dashboard is **exclusive for verified MoonWalkers**  
-        who hold the correct Discord role.
+       **Moon Maps are exclusive for verified Moonwalkers** who hold the correct Discord role.  
         """
     )
 
