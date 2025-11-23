@@ -6,5 +6,8 @@ pandas
 numpy
 scipy
 pytz
-
+finnhub-python
+matplotlib
+plotly
+beautifulsoup4
 httpx>=0.24
